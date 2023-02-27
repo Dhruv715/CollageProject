@@ -1,0 +1,15 @@
+<? xml version="1.0"?>
+<CATALOG>
+<CD>
+       <COMPANY>Columbia</COMPANY>
+       <PRICE>10.90</PRICE>
+</CD>
+<CD>
+       <COMPANY>CBS Records</COMPANY>
+       <PRICE>9.90</PRICE>
+</CD>
+<CD>
+       <COMPANY>RCA</COMPANY>
+       <PRICE>9.90</PRICE>
+</CD>
+</CATALOG>
